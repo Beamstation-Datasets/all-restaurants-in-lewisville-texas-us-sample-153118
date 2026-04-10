@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Lewisville, Texas with a population of over 111k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Lewisville, Texas, US",
+  "export_job_id": "450be747-43af-466a-b651-13839b824e3e",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 153118,
+  "location_name": "Lewisville",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-lewisville-texas-us-sample-153118",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/153118/beamstation_153118_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.88,
+  "sample_records": 34,
+  "sample_sha256": "c4af6a8c3a42575bc89ab0525cf470a4610206538e9ad5234ec2d302bc5a6ec4",
+  "sample_size_bytes": 138093,
+  "total_records": 344,
+  "updated_at": "2026-04-09T10:24:14.062942+00:00"
+}
