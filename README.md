@@ -9,9 +9,9 @@
 | Dataset ID | `153118` |
 | Location | Lewisville |
 | Category | Restaurants |
-| Full dataset size | 344 records |
-| Free sample size | 34 records (9.88%) |
-| Last export | 2026-04-09T10:24:14.062942+00:00 |
+| Full dataset size | 341 records |
+| Free sample size | 34 records (9.97%) |
+| Last export | 2026-04-16T10:16:51.267861+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lewisville-texas-us-sample-153118/releases/download/sample-latest/beamstation_153118_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
