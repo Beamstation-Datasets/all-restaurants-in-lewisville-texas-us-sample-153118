@@ -1,12 +1,12 @@
 {
-  "export_job_id": "afd17e1c-a8cd-4306-b622-81db9992e4c9",
+  "export_job_id": "c7523ded-475d-41af-b813-0faf83f28e9c",
   "id_short": 153118,
-  "published_at": "2026-04-23T19:07:17Z",
+  "published_at": "2026-04-30T19:04:17Z",
   "repo_name": "all-restaurants-in-lewisville-texas-us-sample-153118",
   "sample_asset_name": "beamstation_153118_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/153118/beamstation_153118_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 23,
-  "sample_sha256": "13e883e931c8e5c4e5813c6017dfbd28ebaff47f8f5be9ee5de67d24b188dbad",
-  "sample_size_bytes": 83213,
-  "total_records": 238
+  "sample_records": 34,
+  "sample_sha256": "9f79c8bb03291ed5faf7e3023f8f5662e9f1514863da9a2efbf89816bad024ee",
+  "sample_size_bytes": 145206,
+  "total_records": 349
 }
